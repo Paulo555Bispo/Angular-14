@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio.",
+      "autoria": "Paulo Bispo",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Um dia serei milionário.",
+      "autoria": "Mauricio",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Que boa vida.",
+      "autoria": "Rose",
+      "modelo": "modelo3"
+    }
+  ]
+}
